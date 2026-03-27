@@ -1,0 +1,11 @@
+Nome: Deureck
+Idade: 19 anos  
+Profissão: Desenvolvedor de Software  
+
+Interesses:  
+- Programação  
+- Inteligência Artificial  
+- Desenvolvimento Web  
+
+Mensagem:  
+"Aprender algo novo todos os dias é o caminho para o sucesso."  
